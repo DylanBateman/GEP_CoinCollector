@@ -1,7 +1,7 @@
 
 # Coin Collector
 
-Coin Collector is a third person game which was my first experience using Unreal Engine 4, demonstating my learning as well as the skills I gained during the module within UE4 and C++.
+Coin Collector is a third person game which was my first experience using Unreal Engine 4, Providing an opportunity to explore the engine and demonstrate my learning as well as the skills I gained during the module within UE4 and C++.
 
 This project was completed in the second semester of my 'Game Engine Programming' module in the second year of my 'Computer Games Development' degree at Staffordshire University.
 
